@@ -1,0 +1,13 @@
+.env
+AutogluonModels/
+catboost_info/
+*.csv
+Spaceship_Titanic/data/teenage_mental.xls
+__pycache__/
+.ipynb_checkpoints/
+**/ag_models/
+*.pkl
+*.zip
+*.xls
+!data/*.csv
+!submission/*.csv
